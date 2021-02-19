@@ -1,0 +1,9 @@
+
+]	java:S110"<This class has 6 parents which is greater than 5 authorized.(ÉÔ‘Åúÿÿÿÿ8‘Â½á.
+W
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8©›¤Ãá.
+‚
+java:S1130
+"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(Àû¡8‹·Ã½á.
+T
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8©›¤Ãá.
